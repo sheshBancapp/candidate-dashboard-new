@@ -1,0 +1,26 @@
+body {
+  font-family: 'Inter', sans-serif;
+}
+h1, h2, h3 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+}
+
+p, span, li {
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+}
+.btn-danger{
+    background-color: #F6C1C1;
+    border-color: #E03131;
+}
+
+:root {
+  --bs-primary: #1170CA;
+  --secondary-color: #2ecc71;
+  --background-color: #f5f5f5;
+  --text-color: #333333;
+  --bs-blue: #1170CA;
+   --bs-btn-bg: #1170CA;
+   --bs-btn-border-color: #1170CA
+}
